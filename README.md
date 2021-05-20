@@ -12,8 +12,9 @@ import { Button } from 'react-bootstrap';
 
 # Reactstrap
 
-npm i bootstrap;
-npm i reactstrap;
+npm i bootstrap reactstrap react-transition-group react-popper
 
 import 'bootstrap/dist/css/bootstrap.min.css';
 import { Button } from 'reactstrap';
+
+
